@@ -1,8 +1,12 @@
-# technology_hiring_admissions_2026
+#### technology_hiring_admissions_2026
+
 https://medium.com/@GeoffreyGordonAshbrook/technology-hiring-admissions-f97f6212b4c2
-Technology in Hiring & Admissions
+
+# Technology in Hiring & Admissions
+
 On The State of, and Applications of Technology to, 
 Hiring and Job Seeking Around The Year 2025
+
 2026.01.14-22, Geoffrey Gordon Ashbrook
 
 # Introduction
